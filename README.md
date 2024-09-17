@@ -46,6 +46,11 @@ Validation Accuracy: Accuracy improved from 52.10% at the beginning of training 
 Training Loss: Loss decreased from 6.0481 in the first epoch to 0.1735 in the 25th epoch, indicating an improvement in model quality.
 Validation Loss: Loss reduced from 0.6926 at the start of training to 0.3350 after 25 epochs.
 
+### Testing Results
+Model was finally tested on separated data:
+Test Accuracy: 0.8561
+Test Loss: 0.3463
+
 ### Analysis
 
 Model Progress: The model shows a consistent increase in accuracy and decrease in loss over the epochs, suggesting effective learning and improved fit to the data.
