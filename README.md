@@ -37,7 +37,7 @@ The model was trained using the Adam optimizer and the binary cross-entropy loss
 
 ## Results
 
-![results](img/model1.png)
+![results](model1.png)
 
 ### Training Results
 
